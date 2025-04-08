@@ -21,7 +21,7 @@
     <repository>
       <id>release</id>
       <name>Release Distribution Repository</name>
-      <url>https://example.com/nexus/repository</url>
+      <url>http://localhost:8081/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
   <properties>
