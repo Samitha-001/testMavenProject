@@ -4,11 +4,11 @@
   <parent>
     <groupId>com.example</groupId>
     <artifactId>testMavenProject</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
   </parent>
   <groupId>com.example</groupId>
   <artifactId>testMavenProjectConfigs</artifactId>
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.3</version>
   <packaging>pom</packaging>
   <name>testMavenProjectConfigs</name>
   <description>testMavenProjectConfigs</description>
