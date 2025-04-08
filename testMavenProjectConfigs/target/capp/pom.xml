@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
   <artifactId>testMavenProjectConfigs_module</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
   <name>testMavenProjectConfigs_module</name>
   <description>testMavenProjectConfigs_module</description>
@@ -17,7 +17,7 @@
     <repository>
       <id>release</id>
       <name>Release Distribution Repository</name>
-      <url>https://example.com/nexus/repository</url>
+      <url>http://localhost:8081/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
 </project>
